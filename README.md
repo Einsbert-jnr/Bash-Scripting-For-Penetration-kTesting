@@ -7,7 +7,6 @@
 ***Black Hat Bash**: 
       Bash script for penetration testing is an intensive training program designed to equip cybersecurity entusiasts and professionals with the skills needed to leverage Bash scripting for penetration testing purposes. This training is tailored to provided hadns on experience and practical knowledge; focusing on the application of Bash scripts to automate various tasks and techniques commonly used in ethical hacking and security testing.*
 
-
 ## What I learnt
 - Fundamentals of bash scripting.
   - Variables
@@ -15,9 +14,13 @@
   - Conditional Statement tailored for penetration testing.
 - Automated task such as:
   - Network reconnaissance
-  - Vulnerability scanning
+  - Vulnerability scanning and analysis
   - Exploitation
-  - Post Exploitation
+  - Post Exploitation techniques
+  - Persistance Techniques
+  - Defense Evasion Methods
+  - Exfiltration and Counter - Forensics
+  - 
 - Advanced scripting techniques:
   - Secure script writing.
   - Maintaining and integrating Bash script with other tools
