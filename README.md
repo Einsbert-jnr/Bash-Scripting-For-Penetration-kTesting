@@ -1,4 +1,4 @@
-# Bash-Scripting-For-Penetration-Testing
+# Advanced Bash Programming for Penetration Testing
 
 ## Organizer
   **The Virtual Infosec Cyber Security Training Lab, KNUST**               
