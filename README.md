@@ -1,7 +1,7 @@
 # Bash-Scripting-For-Penetration-Testing
 
 ## Organizer
-  **The Virtual Infosec Cyber Security Training Lab, KNUST**\n
+  **The Virtual Infosec Cyber Security Training Lab, KNUST**               
   **Instructor: Mr Somuah**
 ## Background
 ***Black Hat Bash**: 
