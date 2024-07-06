@@ -12,5 +12,6 @@ do
 		echo "Directory $i already exit!!"
 	else
 		mkdir $i &&  $(touch $i/file1 $i/file2 $i/file3)
+		`cp -r $i /tmp`
 	fi
 done
