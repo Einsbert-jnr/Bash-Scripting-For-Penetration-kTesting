@@ -1,19 +1,16 @@
 #!/bin/bash
 
-
+read -p "Enter your full name: " firstname lastname
+read -p "Enter your email: " email
+run=$(echo -e "$firstname $lastname\t$email" >> users.txt)
 if [ -e "users.txt" ];
 then
 	echo "File already exist"
+	$run
 else
 	echo "File is being created"
 	touch users.txt
-
-	read -p "Enter your full name: " firstname lastname
-	read -p "Enter your active email address: " email
-
-	echo -e "\t\t\t\t\t<>Student Details<>" > users.txt
-	echo "$firstname $lastname $email" >> users.txt
-
+	$run
 	echo "Login saved successfully"
 fi
 	
