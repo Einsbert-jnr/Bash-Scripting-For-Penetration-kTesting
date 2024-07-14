@@ -1,4 +1,0 @@
-					<>Student Details<>
-Random User   randomuser@gmail.com
-asante emma   asante-emma@dev.io
-trial expired   trial_expired@june30-webdev.com
